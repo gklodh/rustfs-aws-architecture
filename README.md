@@ -1,0 +1,1 @@
+# rustfs-aws-architecture
